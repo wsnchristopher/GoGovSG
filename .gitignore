@@ -12,5 +12,4 @@ coverage
 .dccache
 .idea
 .pgdata
-.cache_ggshield
 .env.*
